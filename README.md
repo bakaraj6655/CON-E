@@ -60,7 +60,7 @@ That's it. No coding required to get started.
 - A [Claude.ai](https://claude.ai) account (free plan works)
 - A device to code on:
   - **PC/Laptop** — VS Code + Python installed
-  - **Phone** — [Replit](https://replit.com) (free, browser based)
+  - **Phone** — [ACode] app (free)
 
 ---
 
