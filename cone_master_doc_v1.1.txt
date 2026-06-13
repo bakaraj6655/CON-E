@@ -189,13 +189,10 @@ MAC:
 → Run files with: python3 filename.py
 
 PHONE:
-→ Go to replit.com
-→ Create a free account
-→ Click "Create Repl" → choose Python
-→ Write code in the editor, hit Run
-→ No installation needed
-→ NOTE: file naming system still applies
-  in Replit — name files day1.1.py etc.
+→ Go to Google Play Store
+→Download "Acode" app for free.
+→Setup your acount and understand how to use linux terminal
+(editor's note: give a more detailed setup and try to help user avoid ai slop in the app, teach them how to create and write py files, and use terminal to run it.)
 
 STEP 4 — SHOW SYLLABUS:
 After setup, show them exactly what's coming:
